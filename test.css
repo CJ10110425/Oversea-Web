@@ -1,0 +1,42 @@
+body {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+    background-color: #fff;
+  }
+  
+  h1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 0;
+  }
+  
+  p {
+    margin-bottom: 10px;
+  }
+  
+  section {
+    margin-top: 20px;
+  }
+  
+  header {
+    background-color: #f0f0f0;
+    padding: 20px;
+  }
+  
+  footer {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  a {
+    color: #000;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #0000FF;
+  }
+  
